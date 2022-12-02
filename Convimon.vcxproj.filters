@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\andre\Desktop\Convimon\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\andre\Desktop\Convimon\Classes\HelloWorldScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\andre\Desktop\Convimon\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\andre\Desktop\Convimon\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\andre\Desktop\Convimon\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\andre\Desktop\Convimon\Classes\HelloWorldScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\andre\Desktop\Convimon\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\andre\Desktop\Convimon\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\andre\Desktop\Convimon\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\andre\Desktop\Convimon\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\andre\Desktop\Convimon\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\andre\Desktop\Convimon\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\andre\Desktop\Convimon\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\andre\Desktop\Convimon\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\andre\Desktop\Convimon\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\andre\Desktop\Convimon\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{7D40F858-2D58-3A1E-AD32-280A6F6845D3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{F834A7CD-1043-3ED6-9E50-74918E3D0EF1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{FFB860E8-4AD9-3142-87B1-AAB369895C15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EC0B1C3E-889D-382D-B492-BADBB461C545}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{60E29882-4E04-3170-A3A3-622ACE76FF52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{55CB1B8B-1676-3F94-AEF0-F310CD3045E1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\68.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="res\68 (1).png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\20102 (2).png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\20102.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\Charmander_espalda_G4_variocolor.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\6962.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\Charmander_espalda_G4_variocolor_2.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Resources\32186(1).png">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\Resources\cancion.mp3">
+      <Filter>Resources</Filter>
+    </Media>
+    <Media Include="..\Resources\musica\[ONTIVA.COM] Pokémon Red &amp; Blue Music_ Opening Theme-64k.mp3">
+      <Filter>Resources</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
